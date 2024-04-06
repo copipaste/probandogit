@@ -20,4 +20,6 @@ jhoel linea 7
 
 esto aumento para hacer un git push y luego traer ese cambio a mi ramitaJhoel
 
+esto aumentare a la rama 
+
 
